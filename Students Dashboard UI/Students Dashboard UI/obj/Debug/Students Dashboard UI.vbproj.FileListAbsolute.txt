@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\bin\Debug\Students Dashboard UI.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\bin\Debug\Students Dashboard UI.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\bin\Debug\Students Dashboard UI.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\bin\Debug\Students Dashboard UI.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\obj\Debug\Students Dashboard UI.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\obj\Debug\Students_Dashboard_UI.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\obj\Debug\Students_Dashboard_UI.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\obj\Debug\Students Dashboard UI.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\obj\Debug\Students Dashboard UI.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\obj\Debug\Students Dashboard UI.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Students Dashboard UI\Students Dashboard UI\obj\Debug\Students Dashboard UI.pdb
